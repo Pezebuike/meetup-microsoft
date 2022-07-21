@@ -210,31 +210,6 @@ kubectl delete -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_
 ***************************************************************************************************************************************
 # services
 
-# expose service using nodeport
-
-```
- 
-kubectl apply -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class6-service/service/nodeport-facebook.yaml
-
-```
-
-```
-kubectl describe pod/webserver -n facebook
-```
-
-```
-kubectl get all -n facebook -o wide
-```
-
-
-now access master,node1,node2 public ip and check from outside browser
-
-<Master Node Public IP>:32001
-<Worker Node1 Public IP>:32001
-<Worker Node2 Public IP>:32001
-
-kubectl delete -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class6-service/service/nodeport-facebook.yaml
-*******************************************************************************************************************************
 # expose service using loadbalancer
 
 ```
@@ -280,33 +255,7 @@ kubectl delete -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_
 ```
 
 
-**************************************************************************************************************************************
-## single POD Single replica copies
 
-
-```
-kubectl apply -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class8-replicaset/replicaset/2-singlepod-singlereplica.yml
-```
-
-```
-kubectl get all -n facebook
-```
-
-```
-kubectl describe replicas -n facebook
-```
-
-```
-kubectl get pod,service,replicaset -n facebook -o wide
-```
-
-
-labels --> service -- selector , replica -- match ---> should be same
-
-```
-kubectl delete -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class8-replicaset/replicaset/2-singlepod-singlereplica.yml
-
-```
 **************************************************************************************************************************************
 ## Multi POD Multi replica copies
 
