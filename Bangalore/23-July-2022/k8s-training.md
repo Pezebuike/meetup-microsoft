@@ -8,6 +8,23 @@
 - Hub.docker.com login need to be created
 - github.com account need to be created
 
+
+# Create AKS Cluster
+
+```
+az aks create \
+    --resource-group myResourceGroup \
+    --name myAKSCluster \
+    --node-count 2 \
+    --generate-ssh-keys
+```
+
+# how to login AKS worker nodes
+
+```
+kubectl debug node/aks-nodepool1-33290996-vmss000000 -it --image=mcr.microsoft.com/dotnet/runtime-deps:6.0
+```
+
 # Part 1 session :
 
 ## create name space
