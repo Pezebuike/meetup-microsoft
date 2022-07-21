@@ -138,52 +138,94 @@ kubectl delete -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_
 ***********************************************************************************************************************************
 ## create Multipod with single storage
 
+```
 kubectl create ns twitter
+```
 
+```
 kubectl apply -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class4-namespace-Pod/pod/3-storage.yml
+```
 
+```
 kubectl apply -f 3-storage.yml
+```
 
+```
 kubectl get pods -n twitter -o wide
+```
 
+```
 kubectl describe pod/database -n twitter
-
+```
 
 check the directory has been created to that node
 
+```
 ls -ltrh /var/lib/postgres
+```
 
+```
 kubectl delete -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class4-namespace-Pod/pod/3-storage.yml
+```
+
 
 ****************************************************************************************************************************************
 ## create Multipod with Multi storage
 
-
+```
 kubectl apply -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class4-namespace-Pod/pod/4-multistorage.yml
+```
 
+```
 kubectl get pods -n facebook -o wide
+```
+
+```
 kubectl get all -n facebook -o wide
+```
 
+```
 kubectl describe pod/db -n facebook
+```
 
+```
 kubectl exec -it pod/db bash -n facebook -c web
-kubectl exec -it pod/db bash -n facebook -c db
+```
 
+```
+kubectl exec -it pod/db bash -n facebook -c db
+```
+
+```
 ls -ltrh /var/www/html/
 ls -ltrh /var/lib/postgres
+```
 
+```
 kubectl delete -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class4-namespace-Pod/pod/4-multistorage.yml
+```
+
+
 
 ***************************************************************************************************************************************
 # services
 
 # expose service using nodeport
+
+```
  
 kubectl apply -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class6-service/service/nodeport-facebook.yaml
 
-kubectl describe pod/webserver -n facebook
+```
 
+```
+kubectl describe pod/webserver -n facebook
+```
+
+```
 kubectl get all -n facebook -o wide
+```
+
 
 now access master,node1,node2 public ip and check from outside browser
 
@@ -195,76 +237,121 @@ kubectl delete -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_
 *******************************************************************************************************************************
 # expose service using loadbalancer
 
-
-kubectl apply -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class6-service/service/loadbalancer-facebook.yaml
+```
 kubectl apply -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class6-service/service/loadbalancer-twitter.yml
-
+```
 kubectl get all -n twitter -o wide
 kubectl get pod,services -n twitter -o wide
 
 35.227.119.203:32001
 
 access like above from all node machine ip addresses.it should work from all client machine ip address.then the proxy cluster is working good.
-
+```
 kubectl get services
 kubectl describe services
-
-
+```
+*******************************************************************************************************************************
 # Replica set
 
 ## single replica copies
 
+```
 kubectl apply -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class8-replicaset/replicaset/1-singlereplica.yml
+```
 
+```
 kubectl get all -n twitter
+```
 
+```
 kubectl describe replicas -n twitter
+```
 
+```
 kubectl get pod,service,replicaset -n twitter -o wide
+```
+
 
 labels --> service -- selector , replica -- match ---> should be same
 
+
+```
 kubectl delete -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class8-replicaset/replicaset/1-singlereplica.yml
+```
+
 
 **************************************************************************************************************************************
 ## single POD Single replica copies
 
+
+```
 kubectl apply -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class8-replicaset/replicaset/2-singlepod-singlereplica.yml
+```
 
+```
 kubectl get all -n facebook
-kubectl describe replicas -n facebook
+```
 
+```
+kubectl describe replicas -n facebook
+```
+
+```
 kubectl get pod,service,replicaset -n facebook -o wide
+```
+
 
 labels --> service -- selector , replica -- match ---> should be same
 
+```
 kubectl delete -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class8-replicaset/replicaset/2-singlepod-singlereplica.yml
+
+```
 **************************************************************************************************************************************
 ## Multi POD Multi replica copies
 
+
+```
 kubectl apply -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class8-replicaset/replicaset/3-multireplica.yaml
+```
 
+```
 kubectl get all -n facebook
-kubectl describe replicas -n facebook
+```
 
+```
+kubectl describe replicas -n facebook
+```
+```
 kubectl get pod,service,replicaset -n facebook -o wide
+```
+
 
 labels --> service -- selector , replica -- match ---> should be same
 
+```
 kubectl delete -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class8-replicaset/replicaset/3-multireplica.yaml
+```
+
 
 ********************************************************************************************************************************************
 # Deployments
 
+```
 kubectl apply -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class9-Deployments/deployments/1-deployment-facebook.yaml
-kubectl apply -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class9-Deployments/deployments/2-deployment-twitter.yml
+```
 
-
+```
 kubectl get all -n facebook -o wide
-
+```
+```
 kubectl describe deploy
+```
 
+```
 kubectl get pod,service,replicaset,deploy -n facebook -o wide
+```
+
 
 to understand please delete one pod (before delete in another master ssh window keep run the watch -n 1 kubectl get all -n facebook -o wide command)
 
@@ -273,7 +360,11 @@ kubectl delete pod/nginx-74fcc59689-kn5j2 -n facebook
 then 
 
 run the below command again
+
+```
 kubectl get pod,service,replicaset,deploy -n facebook -o wide
+```
+
 
 rolling update --> https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class9-Deployments/deployments/commands.txt
 
@@ -292,25 +383,34 @@ If all nodes are ready state then we can start the below daemonset handson lab.
 
 goto mater node and run the below yaml file
 
-
+```
 kubectl apply -f https://raw.githubusercontent.com/cloudnloud/Kubernetes_Admin_Training/main/class10-Daemonset/daemonset-nginx.yaml
+```
 
+```
 kubectl get daemonsets
-kubectl descibe daemonsets
+```
 
+```
+kubectl descibe daemonsets
+```
 
 **************************************************************************************************************************************************
 # init Container
 
 You must have 1 master and 2 worker nodes setup.
 
+```
 kubectl get nodes
+```
 
 the above command output should show all nodes are ready state.
 
 create new namespace called app1
 
+```
 kubectl create ns app1
+```
 
 run the below command in one separate putty window in master server
 
