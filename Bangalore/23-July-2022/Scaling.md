@@ -2,7 +2,6 @@
 
 # Before start this excercise,you must have running Rocky 8 linux machine.
 
-[![Watch the image](/architecture.png)]
 
 # AZURE VM
  - create 1 rocky linux 8.5 machine in AZURE Cloud

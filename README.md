@@ -1,48 +1,103 @@
-### Hi there 👋, I'm Vijayabalan Balakrishnan
+I'm **[Vijayabalan](https://www.linkedin.com/in/vijaystack/)** ; aka **Vijay**. 
 
-#### Learn-Grow-Support Cancer Children
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
 
+An Computer Cleaner born and raised in **Kumbakonam/India** and currently settled in **Belgium/Europe**.Currently working in European Commission as an Senior Architect.
 
-![Learn-Grow-Support Cancer Children](https://github.com/cloudnloud/meetup/blob/main/cnl.png)
+- :YouTube: I am helping technology and mentoring videos via my **[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6CgCP0qos4Cbz6FCxW3_jw?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
 
-Past 11 years Cloudnloud Cancer NGO helped many IT professionals to learn niche technologies with real-time use cases in their own lab. We strongly believe the more we fail in our own lab, the more we are confident in the real-time scenarios.
+- :newspaper: I contribute back to the technical community via **[cloudnloud.com](https://www.cloudnloud.com/)**.
 
-### Skills: 
+- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/vijaystack/)** | [YoutTube](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1) | [Twitter](https://twitter.com/bvijaycom) | [Instagram](https://www.instagram.com/bvijaycom/)
 
-Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization,Data,AI,Python,Ansible,Terraform,
+# My Life Story
 
-### Feel Free to engage me and Loud Better:
-👇
-- 🔭 Trying to make everyone to learn try and Fail habbit in their own LAB. 
-- 💪 Pushing Everyone to learn Confidently. 
-- 👯 Trying to make everyone to loud better from their confidence. 
-- 💬 Ask me about IT career related.
-- 💬 Ask me about OverSeas Migration Related.
-- 💬 Ask me about Any Cloud,DevOps,K8s,Data,AI useCase Related.
-- 💬 Ask me about Any Europe Jobs Related. 
-- 💬 Ask me about Any Europe Visa Sponsorship Related.
-- 💬 Ask me about Any Solution Architecture Related.
-- 😄 Pronouns: you can call me as vijay.
-- 🙏 I’m looking for more hands in this cloudnloud Cancer NGO initiatives.
-- 🙏 Join with me on this Children Cancer NGO initiatives.
-- 📫 How to reach me: vijay@cloudnloud.com.
- 
+[![Watch the video](ctotalk.jpeg)](https://blog.ctotalk.in/building-highly-accurate-fraud-detection-system-1a39b1f7014e)
 
-### Find All Cloud/DevOps Architect Trainings with Step-by-Step Handson with Use cases:
-- Click below Picture 👇
-
-[![Watch the video](/Cloudnloud-Free-Trainings.png)](https://www.youtube.com/c/CloudnLoud?sub_confirmation=1)
-
-<h3 align="left">Connect with Me:</h3>
-<a href="https://linkedin.com/in/vijaystack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cloudnloud" height="30" width="40" /></a>
+- :newspaper: Computer Cleaner to Senior Architect **[My Life Journey](https://www.linkedin.com/feed/update/urn:li:activity:6925568536266317824/)**.
 
 
-<h3 align="left">Connect with Us to know your talents:</h3>
+[![Watch the video](believeyourself.png)](https://www.linkedin.com/feed/update/urn:li:activity:6909874259729223680/)
+
+- :newspaper: "𝐖𝐢𝐧 𝐭𝐡𝐞 𝐜𝐫𝐨𝐰𝐝 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐬𝐭𝐚𝐠𝐞 𝐟𝐫𝐨𝐦 𝐲𝐨𝐮𝐫 𝐬𝐦𝐚𝐥𝐥 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞.𝐘𝐨𝐮 𝐰𝐢𝐥𝐥 𝐖𝐢𝐧 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐥𝐢𝐟𝐞" **[Believe In Yourself](https://www.linkedin.com/feed/update/urn:li:activity:6909874259729223680/)**.
+
+[![Watch the video](journey.png)](https://www.linkedin.com/feed/update/urn:li:activity:6930481278328692736/)
+
+- :newspaper: "𝐈 𝐧𝐞𝐯𝐞𝐫 𝐭𝐡𝐨𝐮𝐠𝐡𝐭 𝐭𝐡𝐚𝐭 𝐈 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐚 𝐦𝐞𝐧𝐭𝐨𝐫/𝐭𝐫𝐚𝐢𝐧𝐞𝐫.𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐂𝐥𝐞𝐚𝐧𝐞𝐫 𝐭𝐨 𝐑𝐞-𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 😊" **[𝐑𝐚𝐢𝐬𝐞𝐝 𝟒𝟓𝟎𝟎𝟎 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞𝐢𝐫 𝐨𝐰𝐧 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞](https://www.linkedin.com/feed/update/urn:li:activity:6930481278328692736/)**.
+
+--- 
+# :tv: YouTube - Latest Videos
+
+- [Cloud DevOps useCase Internship](https://www.youtube.com/playlist?list=PLh_VNk4-EHTMr69lm4Jxbl-9Vz5zc1Apl) - Course for beginners.
+- [AWS Solution Architect - Full Course](https://www.youtube.com/watch?v=kdqaP1PWPQI&list=PLh_VNk4-EHTNuNVfq9D8WoA2YQBvgV1Jt)
+- [AZURE Administration - Full Course](https://www.youtube.com/watch?v=3WW95LThR0k&list=PLh_VNk4-EHTPgpEEUkj4G7gXqV47yIz7r)
+- [Ansible Administration - Full Course](https://www.youtube.com/watch?v=LhKucikHpVs&list=PLh_VNk4-EHTNbb18pkpZy_fnG2Dn0n6QR)
+- [DevOps - Jenkins CI/CD - Full Course](https://www.youtube.com/watch?v=rN6f8pyrOI8&list=PLh_VNk4-EHTN732T-CfM-7lG3fNpK__79)
+- [Docker Administration - Full Course](https://www.youtube.com/watch?v=ixtJg7EGlWw&list=PLh_VNk4-EHTP5rDgNYAWgg1vvcPG8eoIV)
+- [Kubernetes Administration - Full Course](https://www.youtube.com/watch?v=lv6AZCBbQ9Y&list=PLh_VNk4-EHTMhIR-NIgI4tCEHdO9U-A8F)
+
+
+
+- [Azure Postmortem Deep Dive](https://www.youtube.com/watch?v=FFYicqW6Qto&list=PLh_VNk4-EHTNDrb2AWVvH0M1XRl0usKRc)
+- [Technical Meetups](https://www.youtube.com/watch?v=cfaJY5P4sME&list=PLh_VNk4-EHTM9S6AcnQQfPno1G06HU0hC)
+- [Fresher-Real-Time Experience Fear](https://www.youtube.com/watch?v=pLgckrrPY08&list=PLh_VNk4-EHTOWg4VL7_v_Ql7DsNW0DGtn)
+- [Cloud General Queries](https://www.youtube.com/watch?v=uIMKuwMP5Uc&list=PLh_VNk4-EHTMj1jcedUnuDNT2Xz-rJ1sy)
+- [IT Job Questions Confidence](https://www.youtube.com/playlist?list=PLh_VNk4-EHTOWg4VL7_v_Ql7DsNW0DGtn)
+
+## Connect with me  
+<a href="https://github.com/cloudnloud" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/cloudnloud" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/bvijaycom_16" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/vijaystack" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/vijayabalan.balakrishnan" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/bvijaycom" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/cloudnloud" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+  
+
+Mail - Vijay@cloudnloud.com
+  
+## join our Discord Channel
+
+[![Join our Discord server!](https://invidget.switchblade.xyz/2FB8wDG)](https://discord.gg/vbjRQGVhuF)
+
+<br/>  
+
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bvijaycom&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>
+
+---
+
+## 🤝🏻 Let's Keep in Touch
+
 <p align="left">
-<a href="https://www.youtube.com/c/cloudnloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cloudnloud" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/company/80359681/admin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cloudnloud" height="30" width="40" /></a>
-<a href="https://fb.com/cloudnloudtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cloudnloudtech" height="30" width="40" /></a>
-<a href="https://twitter.com/cloudnloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cloudnloud" height="30" width="40" /></a>
-</p>
+<a href="https://cloudnloud.com/"><img alt="Website" src="https://img.shields.io/badge/Website-cloudnloud.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://linkedin.com/in/vijaystack"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vijayabalan-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/cloudnloud"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-cloudnloud-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/youtube-cloudnloud-blue?style=flat-square&logo=youtube"></a>
 
- 
+## 🐦 Latest Tweets
+
+[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/cloudnloud?ref_src=twsrc%5Etfw")
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=cloudnloud&layout=wide)](https://github.com/gazf/github-readme-twitter)
+
+
+
