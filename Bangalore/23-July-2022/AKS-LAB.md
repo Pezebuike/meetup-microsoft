@@ -66,7 +66,7 @@ az login
 ## Step 2.1 - Install the required dependencies:
 
 ```
-yum install yum-utils device-mapper-persistent-data lvm2  bash-completion bash-completion-extras yum-utils-y
+yum install yum-utils device-mapper-persistent-data lvm2  bash-completion yum-utils -y
 ```
 
 ```
@@ -244,7 +244,7 @@ az acr repository list --name cnlacr1 --output table
 - List your repository in ACR.
 
 ```
-az acr repository show-tags --name cnlacr --repository azure-vote-front --output table
+az acr repository show-tags --name cnlacr1 --repository azure-vote-front --output table
 ```
 
 
@@ -289,7 +289,7 @@ az aks create \
     --name myAKSCluster \
     --node-count 2 \
     --generate-ssh-keys \
-    --attach-acr cnlacr
+    --attach-acr cnlacr1
 	
 ```
 - Install AZURE AKS CLI
